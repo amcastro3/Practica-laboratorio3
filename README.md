@@ -55,6 +55,7 @@ Concluimos que nuestro porcentaje de error es 0 porque nuestro datos calculados 
 
 5.	VIDEO
 
+https://youtu.be/_rIuoF3AHq4
 
 6.	CONCLUSIONES
 
